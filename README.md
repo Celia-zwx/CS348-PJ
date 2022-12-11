@@ -1,1 +1,2 @@
-# CS348-PJ
+# Ticket-Master
+A ticket buying web-app.
